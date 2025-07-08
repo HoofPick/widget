@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hoofpick Business Listings</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="hoofpick-widget">
+    <h2>Hoofpick Business Directory</h2>
+    <div id="business-listings">Loading listings...</div>
+  </div>
+  <script src="widget.js"></script>
+</body>
+</html>
